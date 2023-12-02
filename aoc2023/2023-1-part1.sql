@@ -1,3 +1,4 @@
+--t-sql
 with calib as (
     select '1abc2
     pqr3stu8vwx
